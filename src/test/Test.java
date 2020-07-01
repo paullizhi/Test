@@ -5,6 +5,6 @@ package test;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("Test.main 1.0.2");
+        System.out.println("Test.main 1.0.3");
     }
 }
